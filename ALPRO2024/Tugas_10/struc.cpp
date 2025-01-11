@@ -7,7 +7,7 @@ struct Mahasiswa {
     float ipk;
 };
 
-int main() {3
+int main() {
     Mahasiswa mhs[5];
     
     for(int i = 0; i < 5; i++) {
